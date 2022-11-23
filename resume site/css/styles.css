@@ -1,0 +1,203 @@
+
+
+
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+}
+
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.main_content{
+    background-color: #fff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0.1);
+    padding: 105px 90px 90px;
+}
+.main_text{
+    margin-bottom: 40px;
+}
+
+.main_name{
+    font-size: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 55px;
+color: #000000;
+
+}
+.main_positio{
+font-size: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+}
+
+.main_descriptin{
+font-size: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+}
+
+.title{
+    font-size: 22px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+
+}
+
+.projects{
+    margin-bottom: 50px;
+}
+
+.project_list{
+    padding: 0;
+    margin-left: 15px;
+}
+
+.project_item{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.project,
+.project_link{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    
+}
+
+.project_link{
+    margin-left: 10px;
+}
+.prject_bracket{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: px;
+    color: #000;
+}
+
+.period{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+    margin-bottom: 8px;
+}
+
+.line{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000;
+}
+
+.organisation{
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #fb6d3a;
+
+}
+
+.work_list{
+    padding: 0;
+    margin-left: 15px;
+}
+.work_list_item{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.stady_information{
+
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #FB6D3A;
+}
+
+.sidebar{
+    background-color:  #1E2939;
+    padding-top: 48px;
+    color: #fff;
+    width: 370px;
+    height: 1319px
+}
+.photo{
+    width: 370px;
+    margin-bottom: 57px;
+}
+
+.sidebar_title{
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+.contacts_text{
+    color: #fff;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 5px;
+}
+
+.contacts_info{
+    color: #565e6a;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 24px;
+    
+}
+
+.contacts{
+    margin-bottom: 50px;
+}   
+
+.contacts,
+.tech_skills{
+    margin-left: 40px;
+    margin-bottom: 44px;
+}
+
+.skills_list{
+    padding: 0;
+    margin-left: 17px;
+}
+
+
+.skills_text{
+    color: #fff;
+    font-size: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+.skills_item{
+    color:#fb6d3a;
+}
